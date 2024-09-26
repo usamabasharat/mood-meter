@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
           fugaz.className
         }
       >
-        Built by Usama Basharat 💛
+        Credits to Smoljames & Built by Usama Basharat 💛
       </p>
     </footer>
   );
